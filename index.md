@@ -9,5 +9,7 @@ This fall, I'll be attending PennState University to pursue a degree in Computer
 
 Socials:
 instagram_username: prxbhxt
+
 snapchat_username: prxbhxt04
+
 github_username: PrabhatM14
